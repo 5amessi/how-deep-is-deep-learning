@@ -1,4 +1,5 @@
 #andrew ng
+
 https://www.youtube.com/watch?v=kHwlB_j7Hkc
 
 https://www.youtube.com/watch?v=yuH4iRcggMw
@@ -16,10 +17,15 @@ https://www.youtube.com/watch?v=GtSf2T6Co80
 https://www.youtube.com/watch?v=OS7KXu0447I
 
 #chiff man 
+
 https://www.youtube.com/watch?v=L-Lsfu4ab74&feature=youtu.be
 
 https://www.youtube.com/watch?v=jc2IthslyzM
 
 #foucs on :
+
+- what is Cost Function
+
+- how to minimize Cost Function
 
 - how is gradient descent working 
