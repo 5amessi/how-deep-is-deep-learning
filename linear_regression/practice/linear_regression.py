@@ -11,8 +11,8 @@ def step_gradient(b_current, m_current, points, learningRate):
         # h(x) = predicted_y = mx + b
         # m is slope, b is y-intercept or m is theta 1, b is theta 0
         # Squared error function
-        # theta0 = theta0 - eta * (1/n)*sum(y(i) - h(xi))
-        # theta1 = theta1 - eta * (1/n)*sum(y(i) - h(xi))*xi
+        # theta0 = theta0 + eta * (1/n)*sum(y(i) - h(xi))
+        # theta1 = theta1 + eta * (1/n)*sum(y(i) - h(xi))*xi
 
     return [b_current, m_current] #return theta0 , theta1
 
