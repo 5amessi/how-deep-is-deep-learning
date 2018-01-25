@@ -1,31 +1,15 @@
 # andrew ng
 
-https://www.youtube.com/watch?v=kHwlB_j7Hkc
+https://www.youtube.com/watch?v=-la3q9d7AKQs
 
-https://www.youtube.com/watch?v=yuH4iRcggMw
+https://www.youtube.com/watch?v=t1IT5hZfS48
 
-https://www.youtube.com/watch?v=yR2ipCoFvNo
+https://www.youtube.com/watch?v=F_VG4LNjZZw
 
-https://www.youtube.com/watch?v=0kns1gXLYg4
+https://www.youtube.com/watch?v=HIQlmHxI6-0
 
-https://www.youtube.com/watch?v=F6GSRDoB-Cg
+https://www.youtube.com/watch?v=TTdcc21Ko9A
 
-https://www.youtube.com/watch?v=YovTqTY-PYY
+https://www.youtube.com/watch?v=6vO3DVJlsK4
 
-https://www.youtube.com/watch?v=GtSf2T6Co80
-
-https://www.youtube.com/watch?v=OS7KXu0447I
-
-# chiff man 
-
-https://www.youtube.com/watch?v=L-Lsfu4ab74&feature=youtu.be
-
-https://www.youtube.com/watch?v=jc2IthslyzM
-
-# foucs on :
-
-- Cost Function
-
-- minimize Cost Function
-
-- gradient descent 
+https://www.youtube.com/watch?v=-EIfb6vFJzc
